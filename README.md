@@ -1,9 +1,8 @@
-### ¡Hola a todos! Mi nombre es Martín Gil Blanco 👋
+### ¡Hola a todos! Mi nombre es David Cornado González 👋
 
 ### Estudios:
 
-- Graduado en Ingeniería Informática en ESEI Universidad de Vigo 2018-2022.
-- Máster en Ingeniería Informática MEI Universidad de Vigo 2023-2024.
+- Grado superior en Desarrollo de Aplicaciones Multiplataforma (DAM)
 
 ### Lenguajes y Herramientas que utilizo:
 
@@ -25,4 +24,4 @@
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
 <br />
 
-[linkedin]: https://www.linkedin.com/in/martín-gil-blanco/
+[linkedin]: xxx
