@@ -1,4 +1,4 @@
-### ¡Hola a todos! Mi nombre es X 👋
+### ¡Hola a todos! Mi nombre es David Cornado González 👋
 ### Estudios:
 - Estudio 1
 - Estudio 2
